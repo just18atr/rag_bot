@@ -59,5 +59,3 @@ This project implements a **Retrieval-Augmented Generation (RAG) research assist
 
 ---
 
-
-Do you want me to also add a **Quick Start / Installation section** (like `pip install -r requirements.txt` and `streamlit run app.py`) so someone can directly try your bot?
